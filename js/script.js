@@ -16,4 +16,8 @@ jQuery(function ($) {
       prevEl: ".swiper-button-prev",
     },
   });
+  // .mySwiper1
+
+  var swiper = new Swiper(".mySwiper2", {});
+  // .mySwiper2
 });
